@@ -1,74 +1,74 @@
 [
   {
     "id": 1,
-    "question": "Grammar: 彼は、この仕事が成功 (せいこう) するかどうか＿＿＿、全力 (ぜんりょく) で取 (と) り組 (く) むつもりだと言っている。",
+    "question": "Grammar: \u5f7c\u306f\u3001\u3053\u306e\u4ed5\u4e8b\u304c\u6210\u529f (\u305b\u3044\u3053\u3046) \u3059\u308b\u304b\u3069\u3046\u304b\uff3f\uff3f\uff3f\u3001\u5168\u529b (\u305c\u3093\u308a\u3087\u304f) \u3067\u53d6 (\u3068) \u308a\u7d44 (\u304f) \u3080\u3064\u3082\u308a\u3060\u3068\u8a00\u3063\u3066\u3044\u308b\u3002",
     "options": [
-      "にかかわらず",
-      "にもかかわらず",
-      "からといって",
-      "にこたえて"
+      "\u306b\u304b\u304b\u308f\u3089\u305a",
+      "\u306b\u3082\u304b\u304b\u308f\u3089\u305a",
+      "\u304b\u3089\u3068\u3044\u3063\u3066",
+      "\u306b\u3053\u305f\u3048\u3066"
     ],
     "correct_idx": 0,
-    "explanation": "〜にかかわらず (regardless of whether). The sentence means: 'He says he intends to tackle it with all his might, regardless of whether this job succeeds or not.' (にもかかわらず = despite; からといって = just because; にこたえて = in response to)."
+    "explanation": "\u301c\u306b\u304b\u304b\u308f\u3089\u305a (regardless of whether). The sentence means: 'He says he intends to tackle it with all his might, regardless of whether this job succeeds or not.' (\u306b\u3082\u304b\u304b\u308f\u3089\u305a = despite; \u304b\u3089\u3068\u3044\u3063\u3066 = just because; \u306b\u3053\u305f\u3048\u3066 = in response to)."
   },
   {
     "id": 2,
-    "question": "Grammar: 昨日 (きのう)、久 (ひさ) しぶりに会った友人は、まるで別人 (べつじん) の＿＿＿痩 (や) せていた。",
+    "question": "Grammar: \u6628\u65e5 (\u304d\u306e\u3046)\u3001\u4e45 (\u3072\u3055) \u3057\u3076\u308a\u306b\u4f1a\u3063\u305f\u53cb\u4eba\u306f\u3001\u307e\u308b\u3067\u5225\u4eba (\u3079\u3064\u3058\u3093) \u306e\uff3f\uff3f\uff3f\u75e9 (\u3084) \u305b\u3066\u3044\u305f\u3002",
     "options": [
-      "かのような",
-      "かのように",
-      "かのようで",
-      "かのもので"
+      "\u304b\u306e\u3088\u3046\u306a",
+      "\u304b\u306e\u3088\u3046\u306b",
+      "\u304b\u306e\u3088\u3046\u3067",
+      "\u304b\u306e\u3082\u306e\u3067"
     ],
     "correct_idx": 1,
-    "explanation": "〜かのように (as if). Modifying '痩せていた' (verb phrase), so we use '〜に' (adverbial). 'The friend I met yesterday for the first time in a while was thin, *as if* they were a different person.'"
+    "explanation": "\u301c\u304b\u306e\u3088\u3046\u306b (as if). Modifying '\u75e9\u305b\u3066\u3044\u305f' (verb phrase), so we use '\u301c\u306b' (adverbial). 'The friend I met yesterday for the first time in a while was thin, *as if* they were a different person.'"
   },
   {
     "id": 3,
-    "question": "Grammar: 彼女は何も知らなかった＿＿＿顔をして、私を見つめた。",
+    "question": "Grammar: \u5f7c\u5973\u306f\u4f55\u3082\u77e5\u3089\u306a\u304b\u3063\u305f\uff3f\uff3f\uff3f\u9854\u3092\u3057\u3066\u3001\u79c1\u3092\u898b\u3064\u3081\u305f\u3002",
     "options": [
-      "かのような",
-      "かのように",
-      "かのようで",
-      "かのもので"
+      "\u304b\u306e\u3088\u3046\u306a",
+      "\u304b\u306e\u3088\u3046\u306b",
+      "\u304b\u306e\u3088\u3046\u3067",
+      "\u304b\u306e\u3082\u306e\u3067"
     ],
     "correct_idx": 0,
-    "explanation": "〜かのような (as if). Modifying '顔' (noun), so we use '〜な'. 'She stared at me with a face *as if* she knew nothing.'"
+    "explanation": "\u301c\u304b\u306e\u3088\u3046\u306a (as if). Modifying '\u9854' (noun), so we use '\u301c\u306a'. 'She stared at me with a face *as if* she knew nothing.'"
   },
   {
     "id": 4,
-    "question": "Vocab: この計画 (けいかく) を実行 (じっこう) に移 (うつ) すには、まだ多 (おお) くの＿＿＿がある。",
+    "question": "Vocab: \u3053\u306e\u8a08\u753b (\u3051\u3044\u304b\u304f) \u3092\u5b9f\u884c (\u3058\u3063\u3053\u3046) \u306b\u79fb (\u3046\u3064) \u3059\u306b\u306f\u3001\u307e\u3060\u591a (\u304a\u304a) \u304f\u306e\uff3f\uff3f\uff3f\u304c\u3042\u308b\u3002",
     "options": [
-      "障害 (しょうがい)",
-      "被害 (ひがい)",
-      "苦情 (くじょう)",
-      "損害 (そんがい)"
+      "\u969c\u5bb3 (\u3057\u3087\u3046\u304c\u3044)",
+      "\u88ab\u5bb3 (\u3072\u304c\u3044)",
+      "\u82e6\u60c5 (\u304f\u3058\u3087\u3046)",
+      "\u640d\u5bb3 (\u305d\u3093\u304c\u3044)"
     ],
     "correct_idx": 0,
-    "explanation": "障害 (obstacle/hurdle). 'There are still many obstacles to putting this plan into action.' (被害=damage, 苦情=complaint, 損害=loss/damage)."
+    "explanation": "\u969c\u5bb3 (obstacle/hurdle). 'There are still many obstacles to putting this plan into action.' (\u88ab\u5bb3=damage, \u82e6\u60c5=complaint, \u640d\u5bb3=loss/damage)."
   },
   {
     "id": 5,
-    "question": "Reading (Short): 「人間 (にんげん) は、失敗 (しっぱい) する生 (い) き物 (もの) である。しかし、失敗を恐 (おそ) れて何も行動 (こうどう) しなければ、成功 (せいこう) もあり得 (え) ない。」\\n\\n筆者 (ひっしゃ) が最 (もっと) も言いたいことは何か。",
+    "question": "Reading (Short): \u300c\u4eba\u9593 (\u306b\u3093\u3052\u3093) \u306f\u3001\u5931\u6557 (\u3057\u3063\u3071\u3044) \u3059\u308b\u751f (\u3044) \u304d\u7269 (\u3082\u306e) \u3067\u3042\u308b\u3002\u3057\u304b\u3057\u3001\u5931\u6557 (\u3057\u3063\u3071\u3044) \u3092\u6050 (\u304a\u305d) \u308c\u3066\u4f55 (\u306a\u306b) \u3082\u884c\u52d5 (\u3053\u3046\u3069\u3046) \u3057\u306a\u3051\u308c\u3070\u3001\u6210\u529f (\u305b\u3044\u3053\u3046) \u3082\u3042\u308a\u5f97 (\u3048) \u306a\u3044\u3002\u300d\n\n\u7b46\u8005 (\u3072\u3063\u3057\u3083) \u304c\u6700 (\u3082\u3063\u3068) \u3082\u8a00 (\u3044) \u3044\u305f\u3044\u3053\u3068\u306f\u4f55 (\u306a\u306b) \u304b\u3002",
     "options": [
-      "人間は失敗するものだから、気にしなくていい。",
-      "失敗を恐れずに、行動することが大切だ。",
-      "成功するためには、失敗してはいけない。",
-      "何も行動しないことが、一番の失敗である。"
+      "\u4eba\u9593 (\u306b\u3093\u3052\u3093) \u306f\u5931\u6557 (\u3057\u3063\u3071\u3044) \u3059\u308b\u3082\u306e\u3060\u304b\u3089\u3001\u6c17 (\u304d) \u306b\u3057\u306a\u304f\u3066\u3044\u3044\u3002",
+      "\u5931\u6557 (\u3057\u3063\u3071\u3044) \u3092\u6050 (\u304a\u305d) \u308c\u305a\u306b\u3001\u884c\u52d5 (\u3053\u3046\u3069\u3046) \u3059\u308b\u3053\u3068\u304c\u5927\u5207 (\u305f\u3044\u305b\u3064) \u3060\u3002",
+      "\u6210\u529f (\u305b\u3044\u3053\u3046) \u3059\u308b\u305f\u3081\u306b\u306f\u3001\u5931\u6557 (\u3057\u3063\u3071\u3044) \u3057\u3066\u306f\u3044\u3051\u306a\u3044\u3002",
+      "\u4f55 (\u306a\u306b) \u3082\u884c\u52d5 (\u3053\u3046\u3069\u3046) \u3057\u306a\u3044\u3053\u3068\u304c\u3001\u4e00\u756a (\u3044\u3061\u3070\u3093) \u306e\u5931\u6557 (\u3057\u3063\u3071\u3044) \u3067\u3042\u308b\u3002"
     ],
     "correct_idx": 1,
     "explanation": "The author admits humans fail, but emphasizes that without action (due to fear), success is impossible. Thus, 'It is important to act without fearing failure' (Option B) is the main point."
   },
   {
     "id": 6,
-    "question": "Grammar: もう少し早 (はや) く家を出ていれば、電車に間 (ま) に合 (あ) った＿＿＿。",
+    "question": "Grammar: \u3082\u3046\u5c11 (\u3059\u3053) \u3057\u65e9 (\u306f\u3084) \u304f\u5bb6 (\u3044\u3048) \u3092\u51fa (\u3067) \u3066\u3044\u308c\u3070\u3001\u96fb\u8eca (\u3067\u3093\u3057\u3083) \u306b\u9593 (\u307e) \u306b\u5408 (\u3042) \u3063\u305f\uff3f\uff3f\uff3f\u3002",
     "options": [
-      "ものだ",
-      "ことだ",
-      "べきだ",
-      "だろうに"
+      "\u3082\u306e\u3060",
+      "\u3053\u3068\u3060",
+      "\u3079\u304d\u3060",
+      "\u3060\u308d\u3046\u306b"
     ],
     "correct_idx": 3,
-    "explanation": "〜だろうに (would have...). Used for counterfactual regret. 'If I had left home a little earlier, I *would have* made the train (but I didn't).'"
+    "explanation": "\u301c\u3060\u308d\u3046\u306b (would have...). Used for counterfactual regret. 'If I had left home a little earlier, I *would have* made the train (but I didn't).'"
   }
 ]
