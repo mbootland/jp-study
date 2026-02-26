@@ -4,8 +4,8 @@ import json
 import os
 
 # CONFIG
-BG_COLOR = "#2C001E"       # Deep Sakura/Plum background
-Q_COLOR  = "#FFB7C5"       # Sakura Pink (Question)
+BG_COLOR = "#000000"       # Solid Black (User preferred)
+Q_COLOR  = "#FFB7C5"       # Sakura Pink (Question) - Pops on black
 OPT_COLOR = "#E1BEE7"      # Light Purple (Options)
 CORRECT_COLOR = "#00E676"  # Green
 WRONG_COLOR = "#757575"    # Grey
