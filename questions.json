@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "question": "Grammar: 彼は、この仕事が成功するかどうか＿＿＿、全力で取り組むつもりだと言っている。",
+    "question": "Grammar: 彼は、この仕事が成功 (せいこう) するかどうか＿＿＿、全力 (ぜんりょく) で取 (と) り組 (く) むつもりだと言っている。",
     "options": [
       "にかかわらず",
       "にもかかわらず",
@@ -13,18 +13,18 @@
   },
   {
     "id": 2,
-    "question": "Grammar: 昨日、久しぶりに会った友人は、まるで別人の＿＿＿痩せていた。",
+    "question": "Grammar: 昨日 (きのう)、久 (ひさ) しぶりに会った友人は、まるで別人 (べつじん) の＿＿＿痩 (や) せていた。",
     "options": [
-      "ように",
-      "そうに",
-      "みたいに",
-      "らしく"
+      "かのような",
+      "かのように",
+      "かのようで",
+      "かのもので"
     ],
-    "correct_idx": 2,
-    "explanation": "まるで〜みたいに (just like / as if). Used for similes. 'The friend I met yesterday for the first time in a while was thin, just like a different person.' (ように is also grammatically correct for simile, but みたいに is more colloquial and fits well here; technically ように is the formal standard, but N2 tests nuances. Let's stick to the most textbook N2 pattern: まるで...かのように/ように is standard. Actually, for N2, 'かのように' is a strong candidate, but between these options, 'ように' or 'みたいに'. Let's set the correct answer to 'かのように' if it were there, but here 'ように' (1) or 'みたいに' (3). Wait, let's fix the question to be a distinct grammar point. Let's use '〜かのように'.) REVISING Q in JSON."
+    "correct_idx": 1,
+    "explanation": "〜かのように (as if). Modifying '痩せていた' (verb phrase), so we use '〜に' (adverbial). 'The friend I met yesterday for the first time in a while was thin, *as if* they were a different person.'"
   },
   {
-    "id": 2,
+    "id": 3,
     "question": "Grammar: 彼女は何も知らなかった＿＿＿顔をして、私を見つめた。",
     "options": [
       "かのような",
@@ -36,8 +36,8 @@
     "explanation": "〜かのような (as if). Modifying '顔' (noun), so we use '〜な'. 'She stared at me with a face *as if* she knew nothing.'"
   },
   {
-    "id": 3,
-    "question": "Vocab: この計画を実行に移すには、まだ多くの＿＿＿がある。",
+    "id": 4,
+    "question": "Vocab: この計画 (けいかく) を実行 (じっこう) に移 (うつ) すには、まだ多 (おお) くの＿＿＿がある。",
     "options": [
       "障害 (しょうがい)",
       "被害 (ひがい)",
@@ -48,8 +48,8 @@
     "explanation": "障害 (obstacle/hurdle). 'There are still many obstacles to putting this plan into action.' (被害=damage, 苦情=complaint, 損害=loss/damage)."
   },
   {
-    "id": 4,
-    "question": "Reading (Short): 「人間は、失敗する生き物である。しかし、失敗を恐れて何も行動しなければ、成功もあり得ない。」\n\n筆者が最も言いたいことは何か。",
+    "id": 5,
+    "question": "Reading (Short): 「人間 (にんげん) は、失敗 (しっぱい) する生 (い) き物 (もの) である。しかし、失敗を恐 (おそ) れて何も行動 (こうどう) しなければ、成功 (せいこう) もあり得 (え) ない。」\\n\\n筆者 (ひっしゃ) が最 (もっと) も言いたいことは何か。",
     "options": [
       "人間は失敗するものだから、気にしなくていい。",
       "失敗を恐れずに、行動することが大切だ。",
@@ -60,8 +60,8 @@
     "explanation": "The author admits humans fail, but emphasizes that without action (due to fear), success is impossible. Thus, 'It is important to act without fearing failure' (Option B) is the main point."
   },
   {
-    "id": 5,
-    "question": "Grammar: もう少し早く家を出ていれば、電車に間に合った＿＿＿。",
+    "id": 6,
+    "question": "Grammar: もう少し早 (はや) く家を出ていれば、電車に間 (ま) に合 (あ) った＿＿＿。",
     "options": [
       "ものだ",
       "ことだ",
