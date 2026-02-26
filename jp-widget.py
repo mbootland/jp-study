@@ -24,7 +24,7 @@ REVEAL_TIME_SEC = 10
 class StudyWidget:
     def __init__(self, root):
         self.root = root
-        self.root.title("GCP Quiz Overlay")
+        self.root.title("JLPT N2 Widget")
         self.root.configure(bg=BG_COLOR)
 
         self.base_width = 1000
