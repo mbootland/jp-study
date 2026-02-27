@@ -3,48 +3,48 @@
     "id": 1,
     "question": "Grammar: 彼は、この仕事が成功するかどうか＿＿＿、全力 で取り組むつもりだと言っている。",
     "options": [
-      "にかかわらず",
-      "にもかかわらず",
+      "にこたえて",
       "からといって",
-      "にこたえて"
+      "にもかかわらず",
+      "にかかわらず"
     ],
-    "correct_idx": 0,
+    "correct_idx": 3,
     "explanation": "〜にかかわらず (regardless of whether). 'He intends to tackle it with all his might, regardless of whether it succeeds or not.'\n\nVocab: 全力 (ぜんりょく), 成功 (せいこう)"
   },
   {
     "id": 2,
     "question": "Grammar: 昨日、久しぶりに会った友人は、まるで別人 の＿＿＿痩 (や) せていた。",
     "options": [
-      "かのような",
       "かのように",
-      "かのようで",
-      "かのもので"
+      "かのような",
+      "かのもので",
+      "かのようで"
     ],
-    "correct_idx": 1,
+    "correct_idx": 0,
     "explanation": "〜かのように (as if). Modifying '痩せていた' (verb), so use '〜に'. 'Thin *as if* they were a different person.'\n\nVocab: 別人 (べつじん)"
   },
   {
     "id": 3,
     "question": "Grammar: 彼女は何も知らなかった＿＿＿顔をして、私を見つめた。",
     "options": [
-      "かのような",
       "かのように",
-      "かのようで",
-      "かのもので"
+      "かのもので",
+      "かのような",
+      "かのようで"
     ],
-    "correct_idx": 0,
+    "correct_idx": 2,
     "explanation": "〜かのような (as if). Modifying '顔' (noun), so use '〜な'. 'A face *as if* she knew nothing.'"
   },
   {
     "id": 4,
     "question": "Vocab: この計画を実行 に移すには、まだ多くの＿＿＿がある。",
     "options": [
-      "障害 (しょうがい)",
-      "被害 (ひがい)",
       "苦情 (くじょう)",
+      "被害 (ひがい)",
+      "障害 (しょうがい)",
       "損害 (そんがい)"
     ],
-    "correct_idx": 0,
+    "correct_idx": 2,
     "explanation": "障害 (obstacle). 'There are still many obstacles to putting this plan into action.'\n\nVocab: 実行 (じっこう)"
   },
   {
@@ -64,23 +64,23 @@
     "question": "Grammar: もう少し早く家を出ていれば、電車に間に合った＿＿＿。",
     "options": [
       "ものだ",
-      "ことだ",
       "べきだ",
-      "だろうに"
+      "だろうに",
+      "ことだ"
     ],
-    "correct_idx": 3,
+    "correct_idx": 2,
     "explanation": "〜だろうに (would have...). Counterfactual regret. 'I *would have* made the train (but I didn't).'"
   },
   {
     "id": 7,
     "question": "Grammar: 彼は犯人 ＿＿＿、どこから見てもただの親切 なおじいさんだ。",
     "options": [
+      "にしては",
       "どころか",
       "ばかりか",
-      "にしては",
       "といっても"
     ],
-    "correct_idx": 0,
+    "correct_idx": 1,
     "explanation": "〜どころか (far from being...). 'Far from being a criminal, he looks like just a kind old man from any angle.'\n\nVocab: 犯人 (はんにん)"
   },
   {
@@ -88,9 +88,9 @@
     "question": "Grammar: この店は味 がいい＿＿＿、値段 も安いので人気がある。",
     "options": [
       "ばかりか",
-      "ほど",
+      "だけに",
       "くらい",
-      "だけに"
+      "ほど"
     ],
     "correct_idx": 0,
     "explanation": "〜ばかりか (not only... but also). 'This shop is popular because not only does it taste good, but the prices are also cheap.'"
@@ -99,48 +99,48 @@
     "id": 9,
     "question": "Grammar: 彼女の努力 ＿＿＿、プロジェクトは成功 した。",
     "options": [
-      "をめぐって",
       "にこたえて",
-      "のおかげで",
-      "のせいで"
+      "のせいで",
+      "をめぐって",
+      "のおかげで"
     ],
-    "correct_idx": 2,
+    "correct_idx": 3,
     "explanation": "〜のおかげで (thanks to). 'Thanks to her efforts, the project succeeded.' (Positive result).\n\nVocab: 成功 (せいこう)"
   },
   {
     "id": 10,
     "question": "Grammar: 先生の説明 はわかりやすい＿＿＿、時々 (ときどき) 早口 になる。",
     "options": [
-      "といっても",
       "からといって",
       "としても",
-      "ものなら"
+      "ものなら",
+      "といっても"
     ],
-    "correct_idx": 0,
+    "correct_idx": 3,
     "explanation": "〜といっても (even though I say / although). 'Although the teacher's explanation is easy to understand, sometimes they speak too fast.'\n\nVocab: 早口 (はやくち)"
   },
   {
     "id": 11,
     "question": "Grammar: この問題 は複雑 で、私にはわかり＿＿＿。",
     "options": [
+      "ざるをえない",
       "かねる",
       "かける",
-      "うる",
-      "ざるをえない"
+      "うる"
     ],
-    "correct_idx": 0,
+    "correct_idx": 1,
     "explanation": "〜かねる (cannot / unable to). Used for politeness or impossibility due to circumstances. 'This problem is complex and I am unable to understand it.'\n\nVocab: 複雑 (ふくざつ)"
   },
   {
     "id": 12,
     "question": "Grammar: 彼は真面目 な性格 だから、無断 (むだん) で休んだりし＿＿＿。",
     "options": [
-      "ないことだ",
-      "ないものだ",
+      "ないはずだ",
       "ないわけがない",
-      "ないはずだ"
+      "ないものだ",
+      "ないことだ"
     ],
-    "correct_idx": 3,
+    "correct_idx": 0,
     "explanation": "〜ないはずだ (should not / unlikely to). Strong conjecture based on grounds. 'Since he is serious, he *should not* take time off without permission.'\n\nVocab: 無断 (むだん), 性格 (せいかく)"
   },
   {
@@ -148,9 +148,9 @@
     "question": "Grammar: 一度 引 き受 けた仕事 は、最後までやり＿＿＿べきだ。",
     "options": [
       "ぬく",
+      "はじめる",
       "かける",
-      "だす",
-      "はじめる"
+      "だす"
     ],
     "correct_idx": 0,
     "explanation": "〜ぬく (do until the end/completely). 'Work you have accepted once should be *carried through to the end*.'"
@@ -159,12 +159,12 @@
     "id": 14,
     "question": "Grammar: この映画 は涙 なしには＿＿＿。",
     "options": [
-      "見られない",
       "見るべきだ",
-      "見てはいけない",
-      "見ることだ"
+      "見ることだ",
+      "見られない",
+      "見てはいけない"
     ],
-    "correct_idx": 0,
+    "correct_idx": 2,
     "explanation": "〜なしには...ない (cannot... without). 'This movie *cannot be watched without* tears.'\n\nVocab: 涙 (なみだ)"
   },
   {
@@ -172,9 +172,9 @@
     "question": "Grammar: 忙 しいときに＿＿＿、母が電話をかけてきた。",
     "options": [
       "かぎって",
-      "かけて",
+      "通じて",
       "わたって",
-      "通じて"
+      "かけて"
     ],
     "correct_idx": 0,
     "explanation": "〜にかぎって (just when / especially when). 'Just when I was busy, my mother called.' (Often implies bad timing)."
@@ -183,10 +183,10 @@
     "id": 16,
     "question": "Grammar: 彼は医者 ＿＿＿、医学 の知識 は全くない。",
     "options": [
-      "にしては",
+      "のくせに",
       "といっても",
       "からといって",
-      "のくせに"
+      "にしては"
     ],
     "correct_idx": 1,
     "explanation": "〜といっても (even if saying... / although). 'Although he is (called) a doctor, he has no medical knowledge at all.' (Usually implies expectation vs reality).\n\nVocab: 知識 (ちしき)"
@@ -195,9 +195,9 @@
     "id": 17,
     "question": "Grammar: どんなに難 しい仕事でも、引き受けた以上 は、＿＿＿。",
     "options": [
-      "やるべきではない",
-      "やらざるを得ない",
       "やるわけにはいかない",
+      "やらざるを得ない",
+      "やるべきではない",
       "やるしかない"
     ],
     "correct_idx": 3,
@@ -207,12 +207,12 @@
     "id": 18,
     "question": "Grammar: 最近、彼は疲れ＿＿＿で、よくため息 をついている。",
     "options": [
-      "ぎみ",
       "がち",
       "っぽい",
+      "ぎみ",
       "だらけ"
     ],
-    "correct_idx": 0,
+    "correct_idx": 2,
     "explanation": "〜気味 (ぎみ) (slight tendency/feeling). 'He looks a little tired / tired-ish.' (がち = frequent tendency; っぽい = looks like; だらけ = full of).\n\nVocab: ため息 (ためいき)"
   },
   {
@@ -220,9 +220,9 @@
     "question": "Grammar: この実験 の結果 ＿＿＿、新しい理論 が発表 された。",
     "options": [
       "にもとづいて",
+      "を中心として",
       "に沿って",
-      "のもとで",
-      "を中心として"
+      "のもとで"
     ],
     "correct_idx": 0,
     "explanation": "〜に基づいて (based on). 'Based on the results of this experiment, a new theory was announced.'\n\nVocab: 実験 (じっけん), 理論 (りろん), 発表 (はっぴょう)"
@@ -231,48 +231,48 @@
     "id": 20,
     "question": "Grammar: 彼は何も言わずに、部屋 を出て行って＿＿＿。",
     "options": [
-      "しまった",
+      "みせた",
       "おいた",
       "あった",
-      "みせた"
+      "しまった"
     ],
-    "correct_idx": 0,
+    "correct_idx": 3,
     "explanation": "〜てしまう (completed/regret). 'He went out of the room without saying anything (and ended up leaving/completed action).'"
   },
   {
     "id": 21,
     "question": "Grammar: 勉強 しなきゃいけないのに、ついゲームを＿＿＿。",
     "options": [
-      "してしまった",
       "しておいた",
+      "してしまった",
       "してあった",
       "してみせた"
     ],
-    "correct_idx": 0,
+    "correct_idx": 1,
     "explanation": "〜てしまう (regret/unintentional). 'Even though I have to study, I *ended up* playing games unintentionally.'"
   },
   {
     "id": 22,
     "question": "Grammar: 優勝 できたのは、チームの皆 が協力 した＿＿＿だ。",
     "options": [
-      "からこそ",
+      "ため",
       "せい",
-      "おかげ",
-      "ため"
+      "からこそ",
+      "おかげ"
     ],
-    "correct_idx": 0,
+    "correct_idx": 2,
     "explanation": "〜からこそ (precisely because). 'We were able to win *precisely because* everyone on the team cooperated.' (Emphatic reason).\n\nVocab: 優勝 (ゆうしょう), 協力 (きょうりょく)"
   },
   {
     "id": 23,
     "question": "Grammar: たとえ両親 に反対 ＿＿＿、私は彼と結婚 します。",
     "options": [
+      "されれば",
       "されても",
       "されると",
-      "されれば",
       "されたら"
     ],
-    "correct_idx": 0,
+    "correct_idx": 1,
     "explanation": "たとえ〜ても (Even if...). 'Even if I am opposed by my parents, I will marry him.'"
   },
   {
@@ -281,8 +281,8 @@
     "options": [
       "ものの",
       "ことの",
-      "わけの",
-      "はずの"
+      "はずの",
+      "わけの"
     ],
     "correct_idx": 0,
     "explanation": "〜ものの (although). 'Although he has a bad mouth, at heart he is a kind person.'"
@@ -291,24 +291,24 @@
     "id": 25,
     "question": "Grammar: このレストランは予約 ＿＿＿入れないほどの人気店だ。",
     "options": [
-      "なしでは",
+      "ないでは",
       "ぬきでは",
       "なくては",
-      "ないでは"
+      "なしでは"
     ],
-    "correct_idx": 0,
+    "correct_idx": 3,
     "explanation": "〜なしでは (without). 'This restaurant is so popular that you cannot enter *without* a reservation.'"
   },
   {
     "id": 26,
     "question": "Grammar: 彼女は歌 がうまい＿＿＿、プロになれるほどではない。",
     "options": [
-      "といっても",
-      "からといって",
       "としても",
+      "からといって",
+      "といっても",
       "にしては"
     ],
-    "correct_idx": 0,
+    "correct_idx": 2,
     "explanation": "〜といっても (Although/Even though). 'Although she is good at singing, it's not to the extent that she can become a pro.'"
   },
   {
@@ -316,8 +316,8 @@
     "question": "Grammar: 事故 の原因 は、スピードの出 し過 ぎに＿＿＿。",
     "options": [
       "ほかならない",
-      "すぎない",
       "ちがいない",
+      "すぎない",
       "きまっている"
     ],
     "correct_idx": 0,
@@ -328,9 +328,9 @@
     "question": "Grammar: 彼は天才 だ。一度聞けば、忘 れる＿＿＿がない。",
     "options": [
       "こと",
-      "もの",
+      "はず",
       "わけ",
-      "はず"
+      "もの"
     ],
     "correct_idx": 2,
     "explanation": "〜わけがない (there is no way/reason). 'He is a genius. Once he hears it, *there is no way* he forgets.'"
@@ -339,24 +339,24 @@
     "id": 29,
     "question": "Grammar: 雨 が降 ろうと降るまいと、試合 は行 われる＿＿＿だ。",
     "options": [
-      "はず",
-      "わけ",
       "こと",
-      "もの"
+      "もの",
+      "わけ",
+      "はず"
     ],
-    "correct_idx": 0,
+    "correct_idx": 3,
     "explanation": "〜はず (expectation/schedule). 'Whether it rains or not, the game *is expected/scheduled* to be held.'"
   },
   {
     "id": 30,
     "question": "Grammar: 彼は私の忠告 (ちゅうこく) を聞こうとも＿＿＿。",
     "options": [
-      "しない",
       "できない",
       "した",
-      "できた"
+      "できた",
+      "しない"
     ],
-    "correct_idx": 0,
+    "correct_idx": 3,
     "explanation": "〜ようともしない (does not even try to). 'He *doesn't even try to* listen to my advice.'\n\nVocab: 忠告 (ちゅうこく)"
   },
   {
@@ -364,8 +364,8 @@
     "question": "Grammar: この仕事は危険 ＿＿＿が、報酬 (ほうしゅう) は高い。",
     "options": [
       "こそ伴 う",
-      "を伴う",
       "に伴う",
+      "を伴う",
       "で伴う"
     ],
     "correct_idx": 0,
@@ -375,84 +375,84 @@
     "id": 32,
     "question": "Grammar: 彼女は女優 として活躍 する＿＿＿、小説家 としても知られている。",
     "options": [
-      "一方で",
-      "反面",
       "ばかりで",
-      "かわりに"
+      "一方で",
+      "かわりに",
+      "反面"
     ],
-    "correct_idx": 0,
+    "correct_idx": 1,
     "explanation": "〜一方で (on one hand / while). 'While she is active as an actress, she is *also* known as a novelist.'\n\nVocab: 活躍 (かつやく), 小説家 (しょうせつか)"
   },
   {
     "id": 33,
     "question": "Grammar: この薬 は副作用 (ふくさよう) の＿＿＿がある。",
     "options": [
-      "おそれ",
-      "心配",
+      "危険",
       "可能性",
-      "危険"
+      "おそれ",
+      "心配"
     ],
-    "correct_idx": 0,
+    "correct_idx": 2,
     "explanation": "〜おそれがある (fear/risk of). 'This medicine has a *risk* of side effects.' (Grammar pattern specific to negative outcomes).\n\nVocab: 副作用 (ふくさよう)"
   },
   {
     "id": 34,
     "question": "Grammar: 彼の話 は嘘 に＿＿＿。",
     "options": [
-      "決まっている",
+      "すぎない",
       "違いない",
       "相違ない",
-      "すぎない"
+      "決まっている"
     ],
-    "correct_idx": 0,
+    "correct_idx": 3,
     "explanation": "〜に決まっている (definitely/must be). 'His story *must be* a lie.' (Colloquial conviction)."
   },
   {
     "id": 35,
     "question": "Grammar: たとえ失敗しても、またやり直 せばいい＿＿＿。",
     "options": [
-      "だけだ",
-      "ばかりだ",
       "ほどだ",
-      "くらいだ"
+      "だけだ",
+      "くらいだ",
+      "ばかりだ"
     ],
-    "correct_idx": 0,
+    "correct_idx": 1,
     "explanation": "〜ばいいだけだ (just have to...). 'Even if you fail, you *just have to* start over again.'"
   },
   {
     "id": 36,
     "question": "Grammar: 彼は勉強＿＿＿、スポーツも万能 (ばんのう) だ。",
     "options": [
-      "のみならず",
       "ばかりか",
-      "だけでなく",
-      "に加えて"
+      "に加えて",
+      "のみならず",
+      "だけでなく"
     ],
-    "correct_idx": 0,
+    "correct_idx": 2,
     "explanation": "〜のみならず (not only... but also). Formal. 'He is all-around capable, *not only* in study but also in sports.'\n\nVocab: 万能 (ばんのう)"
   },
   {
     "id": 37,
     "question": "Grammar: この計画 は中止 ＿＿＿。",
     "options": [
-      "せざるを得ない",
       "しざるを得ない",
-      "せずにはいられない",
-      "しないではいられない"
+      "せざるを得ない",
+      "しないではいられない",
+      "せずにはいられない"
     ],
-    "correct_idx": 0,
+    "correct_idx": 1,
     "explanation": "〜せざるを得ない (have no choice but to). 'We *have no choice but to* cancel this plan.' (Verb stem 'せ' for する)."
   },
   {
     "id": 38,
     "question": "Grammar: あの人は、口先 (くちさき) ＿＿＿親切 そうだ。",
     "options": [
+      "こそは",
       "だけは",
       "ばかりは",
-      "のみは",
-      "こそは"
+      "のみは"
     ],
-    "correct_idx": 0,
+    "correct_idx": 1,
     "explanation": "〜だけは (at least regarding...). 'That person seems kind *at least in words*.' (Implying not truly kind).\n\nVocab: 口先 (くちさき)"
   },
   {
@@ -460,9 +460,9 @@
     "question": "Grammar: 彼は何も知らなかった＿＿＿。",
     "options": [
       "ふりをした",
-      "ことにした",
       "ようだった",
-      "みたいだった"
+      "みたいだった",
+      "ことにした"
     ],
     "correct_idx": 0,
     "explanation": "〜ふりをする (pretend to). 'He *pretended* he didn't know anything.'"
@@ -472,9 +472,9 @@
     "question": "Grammar: 彼女は泣き出しそうな顔 をして、部屋を出て行 った＿＿＿、二度 と戻 ってこなかった。",
     "options": [
       "きり",
+      "あげく",
       "まま",
-      "とたん",
-      "あげく"
+      "とたん"
     ],
     "correct_idx": 0,
     "explanation": "〜きり (since/once... never again). 'She left the room looking like she would cry, and (since then) *never* returned.'"
@@ -483,12 +483,12 @@
     "id": 41,
     "question": "Grammar: 彼は社長 ＿＿＿、社員 の信頼 が厚 い。",
     "options": [
-      "として",
-      "にとって",
+      "について",
       "にしては",
-      "について"
+      "にとって",
+      "として"
     ],
-    "correct_idx": 0,
+    "correct_idx": 3,
     "explanation": "〜として (as/in the capacity of). 'As the president, he has the deep trust of the employees.'\n\nVocab: 信頼 (しんらい), 厚い (あつい)"
   },
   {
@@ -497,8 +497,8 @@
     "options": [
       "たびに",
       "ついでに",
-      "とたんに",
-      "最中に"
+      "最中に",
+      "とたんに"
     ],
     "correct_idx": 0,
     "explanation": "〜たびに (every time). 'Every time I hear this song, I remember my student days.'"
@@ -507,24 +507,24 @@
     "id": 43,
     "question": "Grammar: 彼は怒 っている＿＿＿、悲 しんでいるように見えた。",
     "options": [
+      "といったら",
       "というより",
       "といっても",
-      "といったら",
       "といえば"
     ],
-    "correct_idx": 0,
+    "correct_idx": 1,
     "explanation": "〜というより (rather than). 'He looked sad *rather than* angry.'"
   },
   {
     "id": 44,
     "question": "Grammar: この仕事は、経験 がある人＿＿＿採用 します。",
     "options": [
-      "に限って",
       "に際して",
+      "に対して",
       "に関して",
-      "に対して"
+      "に限って"
     ],
-    "correct_idx": 0,
+    "correct_idx": 3,
     "explanation": "〜に限って (limited to/only). 'For this job, we will hire *only* those who have experience.'\n\nVocab: 採用 (さいよう)"
   },
   {
@@ -532,35 +532,35 @@
     "question": "Grammar: 明日 は晴 れる＿＿＿。",
     "options": [
       "に決まっている",
-      "に違いない",
       "にほかならない",
-      "にすぎない"
+      "にすぎない",
+      "に違いない"
     ],
-    "correct_idx": 1,
+    "correct_idx": 3,
     "explanation": "〜に違いない (must be/no doubt). 'It *must be* sunny tomorrow.' (Subjective certainty)."
   },
   {
     "id": 46,
     "question": "Grammar: 彼は、お金持 ち＿＿＿、幸 せだとは限 らない。",
     "options": [
+      "ながらも",
       "からといって",
       "といっても",
-      "としても",
-      "ながらも"
+      "としても"
     ],
-    "correct_idx": 0,
+    "correct_idx": 1,
     "explanation": "〜からといって (just because). 'Just because he is rich, it doesn't necessarily mean he is happy.'"
   },
   {
     "id": 47,
     "question": "Grammar: 彼女は、彼が来るのを待 ち＿＿＿。",
     "options": [
-      "続けた",
-      "かけた",
       "ぬいた",
+      "かけた",
+      "続けた",
       "きった"
     ],
-    "correct_idx": 0,
+    "correct_idx": 2,
     "explanation": "〜続ける (continue to). 'She *continued to wait* for him to come.'"
   },
   {
@@ -568,9 +568,9 @@
     "question": "Grammar: この本は、読めば読む＿＿＿面白 くなる。",
     "options": [
       "ほど",
+      "ばかり",
       "くらい",
-      "だけ",
-      "ばかり"
+      "だけ"
     ],
     "correct_idx": 0,
     "explanation": "〜ば〜ほど (the more... the more). 'The more you read this book, the more interesting it becomes.'"
@@ -580,9 +580,9 @@
     "question": "Grammar: 彼は、自分の意見 を主張 して＿＿＿。",
     "options": [
       "やまない",
-      "たまらない",
+      "いられない",
       "ならない",
-      "いられない"
+      "たまらない"
     ],
     "correct_idx": 0,
     "explanation": "〜てやまない (never stop/always). Formal/Literary. 'He *never stops* asserting his opinion / I always hope for...' (Wait, 'やまない' is usually for feelings/wishes. Asserting opinion might be '譲らない' (yuzuranai) or '曲げない'. 'てやまない' is usually 期待してやまない. Let's fix option to '譲らない' or change question context. Let's use '愛してやまない' (love deeply/always). REVISING Q in script.)\n\nVocab: 主張 (しゅちょう)"
@@ -591,24 +591,24 @@
     "id": 50,
     "question": "Grammar: 私は、平和 な世界 が来 ることを願 って＿＿＿。",
     "options": [
+      "いられない",
       "やまない",
-      "たまらない",
       "ならない",
-      "いられない"
+      "たまらない"
     ],
-    "correct_idx": 0,
+    "correct_idx": 1,
     "explanation": "〜てやまない (sincerely hope/forever do). 'I *sincerely/ceaselessly hope* for a peaceful world to come.'\n\nVocab: 平和 (へいわ)"
   },
   {
     "id": 51,
     "question": "Grammar: 彼は、留学 する＿＿＿、準備 を進 めている。",
     "options": [
-      "べく",
-      "ために",
       "ように",
-      "こと"
+      "こと",
+      "べく",
+      "ために"
     ],
-    "correct_idx": 0,
+    "correct_idx": 2,
     "explanation": "〜べく (in order to). Formal 'tame ni'. 'He is proceeding with preparations *in order to* study abroad.'\n\nVocab: 留学 (りゅうがく), 準備 (じゅんび)"
   }
 ]
